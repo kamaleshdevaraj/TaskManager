@@ -1,5 +1,5 @@
 import "./App.css";
-import TaskList from "./TaskManager";
+import TaskList from "./pages/TaskManager";
 
 function App() {
   return (
